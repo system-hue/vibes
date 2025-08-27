@@ -19,7 +19,10 @@ domains = [
     "Healthcare", "Finance", "Education", "Retail", "Manufacturing", "Energy",
     "Transportation", "Entertainment", "Government", "Agriculture", "Real Estate",
     "Hospitality", "Telecommunications", "Legal", "Scientific Research",
-    "Space Exploration", "Cybersecurity", "Robotics", "Environmental Science", "Art & Design"
+    "Space Exploration", "Cybersecurity", "Robotics", "Environmental Science", "Art & Design",
+    "Quantum Finance", "Interstellar Agriculture", "Bio-informatics", "Urban Planning",
+    "Maritime Logistics", "Renewable Energy Grids", "Mental Wellness", "Personalized Fashion",
+    "Smart Contracts", "Historical Simulation"
 ]
 
 advanced_modifiers = [
@@ -27,7 +30,10 @@ advanced_modifiers = [
     "Nanotech-Driven", "Cosmic-Scale", "Ethically-Omniscient", "Hyper-Creative",
     "Temporal-Analyzing", "Bio-Engineered", "Economically-Dominant", "Psychically-Simulated",
     "Dimensionally-Manipulated", "Consciousness-Emulating", "Energy-Mastering",
-    "Reality-Augmenting", "Omniscient-Knowledge-Based", "Precognitive", "Anti-Entropic"
+    "Reality-Augmenting", "Omniscient-Knowledge-Based", "Precognitive", "Anti-Entropic",
+    "Blockchain-Integrated", "Climate-Adaptive", "Neuralink-Compatible", "Post-Scarcity",
+    "Synthetic-Biology-Driven", "Exo-Planetary", "Sub-Atomic", "Causality-Inverting",
+    "Meta-Physical", "Achronal"
 ]
 
 # Path for the output file
